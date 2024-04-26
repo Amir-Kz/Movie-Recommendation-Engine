@@ -14,7 +14,6 @@ certifi==2024.2.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 comm==0.2.2
-command-not-found==0.3
 cryptography==3.4.8
 dbus-python==1.2.18
 debugpy==1.8.1
