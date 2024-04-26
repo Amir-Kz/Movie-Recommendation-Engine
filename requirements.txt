@@ -20,4 +20,3 @@ jupyterlab_widgets==3.0.10
 prompt-toolkit==3.0.43
 python-json-logger==2.0.7
 streamlit==1.30.0
-systemd-python==234
